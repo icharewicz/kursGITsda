@@ -1,1 +1,3 @@
 Dodanie funkcjonalnosci C.
+
+Ala ma kota i roslinki.
