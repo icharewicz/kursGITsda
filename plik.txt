@@ -5,3 +5,7 @@ Dodanie nowej, eksperymentalnej funkcjonalnosci.
 23.12.2021 21:22 Obejrzane - "Tworzenie repozytorium zdalnego".
 
 Następne wideo - "Plik .gitignore"
+
+25.12.2021 22:14 Obejrzane - "Konflikty przy scalaniu odgalezien".
+
+Nastepne - Fast forwarding.
