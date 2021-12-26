@@ -1,1 +1,2 @@
 Dodanie pliku A na #2.
+Szybka naprawa pliku A_#2 na galezi main.
