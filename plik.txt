@@ -1,7 +1,0 @@
-Ala ma kota.
-
-Dodanie nowej, eksperymentalnej funkcjonalnosci.
-
-23.12.2021 21:22 Obejrzane - "Tworzenie repozytorium zdalnego".
-
-Następne wideo - "Plik .gitignore"
