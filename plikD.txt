@@ -1,3 +1,0 @@
-Dodanie funkcjonalnosci D.
-
-Zmiana w pliku D na #test.

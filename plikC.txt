@@ -1,5 +1,0 @@
-Dodanie funkcjonalnosci C.
-
-Ala ma psa, rybki, kota i roslinki.
-
-Edycja w galezi #1.
